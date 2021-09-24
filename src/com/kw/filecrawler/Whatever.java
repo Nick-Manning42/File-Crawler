@@ -7,6 +7,7 @@ public class Whatever {
     private final Object whatver = new Object();
     private String foo;
     private String bar;
+    private int age;
 
     public String getBar() {
         return bar;
@@ -30,6 +31,14 @@ public class Whatever {
 
     public void setFoo(String foo) {
         this.foo = foo;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
     }
     
    
