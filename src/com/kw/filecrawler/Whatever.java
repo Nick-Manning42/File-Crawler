@@ -32,6 +32,5 @@ public class Whatever {
         this.foo = foo;
     }
     
-    
-    
+   
 }
